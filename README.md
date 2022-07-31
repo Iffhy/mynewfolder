@@ -1,2 +1,2 @@
 # mynewfolder
-https://iffhy.github.io/mynewfolder/
+https://github.com/Iffhy/mynewfolder.git
